@@ -2,7 +2,7 @@
 
 Um APP de tarefas desenvolvido em Flutter
 
-## Getting Started
+## Objetivos do projeto
 
 Neste projeto, temos como objetivo entregar um Aplicativo de To do list desenvolvido com Flutter.
 
