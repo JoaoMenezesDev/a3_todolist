@@ -8,10 +8,10 @@ Neste projeto, temos como objetivo entregar um Aplicativo de To do list desenvol
 
 As funções que o App deve conter são:
 
-Cadastro
-Login com autentificação das informações
-Logout
-Visualização da lista de tarefas
-Adição de tarefas
-Edição de tarefas
+Cadastro <br>
+Login com autentificação das informações<br>
+Logout<br>
+Visualização da lista de tarefas<br>
+Adição de tarefas<br>
+Edição de tarefas<br>
 Exclusão de tarefas
