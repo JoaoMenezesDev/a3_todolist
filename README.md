@@ -4,9 +4,6 @@ Projeto A3 - UC de Usabilidade, Desenvolvimento Web, Mobile e Jogos
 
 Um APP de tarefas desenvolvido em Flutter
 
-Objetivos do projeto
-Neste projeto, temos como objetivo entregar um Aplicativo de To do list desenvolvido com Flutter.
-
 ### As funções estabelecidas como objetivo para o APP são:
 
 Cadastro
