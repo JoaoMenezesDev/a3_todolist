@@ -6,13 +6,13 @@ Um APP de tarefas desenvolvido em Flutter
 
 ### As funções estabelecidas como objetivo para o APP são:
 
-Cadastro
-Login com autentificação das informações
-Logout
-Visualização da lista de tarefas
-Adição de tarefas
-Exclusão de tarefas
-Edição de Perfil
+Cadastro<br>
+Login com autentificação das informações<br>
+Logout<br>
+Visualização da lista de tarefas<br>
+Adição de tarefas<br>
+Exclusão de tarefas<br>
+Edição de Perfil<br>
 
 ## Membros:
 
