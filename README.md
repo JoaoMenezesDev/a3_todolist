@@ -1,18 +1,33 @@
 # To do list
 
-Projeto A3 - To Do List
+Projeto A3 - UC de Usabilidade, Desenvolvimento Web, Mobile e Jogos
+
+Um APP de tarefas desenvolvido em Flutter
+
+Objetivos do projeto
+Neste projeto, temos como objetivo entregar um Aplicativo de To do list desenvolvido com Flutter.
+
+### As funções estabelecidas como objetivo para o APP são:
+
+Cadastro
+Login com autentificação das informações
+Logout
+Visualização da lista de tarefas
+Adição de tarefas
+Exclusão de tarefas
+Edição de Perfil
 
 ## Membros:
 
-Alan Rodrigues dos Santos
+Glenda Lima Borges - 127232519
 
-Glenda Borges
+Pedro Henrique Sá - 823221531
 
-João Pedro Menezes
+João Pedro Souza Menezes - 823212339
 
-Richardy Vitorino
+Alan Rodrigues dos Santos - 823217663
 
-Pedro Henrique
+Richardy Bispo Vitorino - 82326934
 
 ## Link download APK:
 
