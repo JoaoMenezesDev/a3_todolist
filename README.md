@@ -14,6 +14,10 @@ Adição de tarefas<br>
 Exclusão de tarefas<br>
 Edição de Perfil<br>
 
+## Link do vídeo do APP
+
+https://youtu.be/bEatdIyzL1k
+
 ## Membros:
 
 Glenda Lima Borges - 127232519
